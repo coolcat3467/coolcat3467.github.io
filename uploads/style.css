@@ -1,0 +1,10 @@
+body {
+    background: rgb(11,237,249);
+background: linear-gradient(339deg, rgba(11,237,249,1) 0%, rgba(255,255,255,1) 47%, rgba(255,0,0,1) 80%);
+}
+
+button {
+    background-color: red;
+    margin-left: 6px; 
+    margin-right:6px;
+}
