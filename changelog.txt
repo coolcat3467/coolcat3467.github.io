@@ -1,3 +1,0 @@
-12/8/23
-- Updated /index.html
-- Added /changelog.txt

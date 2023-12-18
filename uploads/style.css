@@ -1,11 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
 body {
-    background-color: cyan;
+    background-color: #00ffff;
+}
+
+h1 {
+    font-family: 'Silkscreen', sans-serif;
 }
 
 button {
-    background-color: red;
+    background-color: #ff0000;
     margin-left: 6px; 
     margin-right:6px;
     margin-bottom: 6px;
     margin-top: 6px;
+}
+
+a {
+    text-decoration: none;
 }
