@@ -3,11 +3,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-        <loc>https://coolcat8467.github.io/</loc>
+        <loc>https://coolcat3467.github.io/</loc>
    </url>
 
    <url>
-        <loc>https://coolcat8467.github.io/aboutme</loc>
+        <loc>https://coolcat3467.github.io/aboutme</loc>
+   </url>
+
+   <url>
+        <loc>https://coolcat3467.github.io/links</loc>
    </url>
 
 </urlset> 
