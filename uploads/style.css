@@ -32,7 +32,8 @@ a {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #0000ff;
-    color: white;
+    background-color: #00ff37;
+    color: #940e0e;
     text-align: center;
+    text-decoration: underline;
 }
