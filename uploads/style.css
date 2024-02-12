@@ -27,6 +27,14 @@ a {
     text-decoration: none;
 }
 
+.profile {
+    height: auto;
+    width: 125px;
+    border-radius: 90px;
+    border: #6a6a6a solid 3px;
+    margin: auto;
+  }
+
 .footer {
     position: fixed;
     left: 0;
