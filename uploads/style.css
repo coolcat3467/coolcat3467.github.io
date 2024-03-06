@@ -35,17 +35,6 @@ a {
     margin: auto;
   }
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #00ff37;
-    color: #0000ff;
-    text-align: center;
-    text-decoration: underline;
-}
-
 .about-p {
     color: #ffffff;
 }
