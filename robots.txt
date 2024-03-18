@@ -1,4 +1,0 @@
-User-agent: Googlebot
-Allow: /
-
-Sitemap: https://coolcat3467.github.io/sitemap.xml
