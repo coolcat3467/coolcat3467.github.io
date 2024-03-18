@@ -1,18 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
-
 body {
     background-color: #ff0000;
 }
 
 h1 {
     color: #7fff00;
-    font-family: 'Silkscreen', sans-serif;
 }
 
 p {
     color: #0000ff;
-    font-family: 'Diphylleia', serif;
 }
 
 button {
