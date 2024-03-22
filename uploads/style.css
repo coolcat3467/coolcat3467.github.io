@@ -7,7 +7,7 @@ h1 {
 }
 
 p {
-    color: #0000ff;
+    color: #ffffff;
 }
 
 button {
@@ -29,7 +29,3 @@ a {
     border: #6a6a6a solid 3px;
     margin: auto;
   }
-
-.about-p {
-    color: #ffffff;
-}
