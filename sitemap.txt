@@ -1,4 +1,13 @@
 This file is at https://coolcat3467.github.io/sitemap.txt
 
+**Base Urls**
+
 Homepage: https://coolcat3467.github.io
-Aboutme: https://coolcat3467.github.io/about
+About Me: https://coolcat3467.github.io/about
+Secrets Page: https://coolcat3467.github.io/secrets
+Projects Page: https://coolcat3467.github.io/projects
+
+**Other Urls**
+
+My Discord Servers: https://coolcat3467.github.io/secrets/discordservers
+My Discord Servers Rules: https://coolcat3467.github.io/secrets/discordservers/rules
