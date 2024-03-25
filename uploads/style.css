@@ -29,3 +29,17 @@ a {
     border: #6a6a6a solid 3px;
     margin: auto;
   }
+
+/*Projects css*/
+
+  .pro-id {
+    text-decoration: underline;
+  }
+
+  .pro-name {
+    color: #ff7f50;
+  }
+
+  .pro-button {
+    color: #ff8c00;
+  }
