@@ -32,7 +32,8 @@ a {
 
 /*Projects css*/
 
-  .pro-id {
+  .pro-shortbio {
+    color: #00ffff;
     text-decoration: underline;
   }
 
